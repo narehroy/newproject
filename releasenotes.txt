@@ -1,0 +1,1 @@
+ ready for release with necessary configurations
